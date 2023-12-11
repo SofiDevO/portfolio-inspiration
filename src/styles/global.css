@@ -44,7 +44,7 @@ h1 {
   font-size: 4rem;
 }
 h2 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 h3 {
   font-size: 1.9rem;
@@ -80,18 +80,20 @@ textarea {
 input {
   font-size: 16px;
 }
+
 table {
-  width: 100%;
+  width: 96%;
   border: 2px solid #11c9a9;
   padding: 1rem 0.7rem;
-  border-radius: 13px;
-  display: table-cell;
-  border-spacing: 0px;
+  border-radius: 9px;
+  display: block;
+  border-spacing: 12px;
+  overflow: auto;
 }
+
 th {
   width: 27%;
   display: table-cell;
-  border-bottom-style: outset;
 }
 td {
   width: 25%;
@@ -107,7 +109,7 @@ img {
 }
 code {
   padding: 2px 5px;
-  background-color: rgb(var(--gray-light));
+  background-color: #474747d6;
   border-radius: 2px;
 }
 pre {
@@ -133,6 +135,14 @@ li {
 @media (min-width: 768px) {
   body {
     font-size: 18px;
+  }
+  table {
+    width: 100%;
+    border: 2px solid #11c9a9;
+    padding: 1rem 0.7rem;
+    border-radius: 13px;
+    display: table-cell;
+    border-spacing: 3px;
   }
 }
 .sr-only {

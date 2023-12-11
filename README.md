@@ -21,9 +21,9 @@
 |         |                                                                                                                               |                                                                          |                                                               |                               |
 |         |                                                                                                                               |                                                                          |                                                               |                               |
 
-# Portfolio-Inspiration Contribution Guidelines
+## Portfolio-Inspiration Contribution Guidelines
 
-Thank you for your interest in contributing to the "Portfolio Inspiration" project! Here are the instructions on how to contribute. You can choose between two methods: editing the README directly or forking the repository.
+> Thank you for your interest in contributing to the "Portfolio Inspiration" project! Here are the instructions on how to contribute. You can choose between two methods: editing the README directly or forking the repository.
 
 ## Edit the README Directly
 
@@ -46,7 +46,8 @@ If you choose to edit the README directly, follow these steps:
 2. **Add a Screenshot**:
 3. Before submitting your pull request, please compress your image. You can use whatever tool you want, for example [squoosh](https://squoosh.app/).
 4. Add your screenshot by just drag into the README.md.
-   ![ejemplo](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/e22aee88-d824-4c98-8af8-93294a00f868)
+
+![ejemplo](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/e22aee88-d824-4c98-8af8-93294a00f868)
 
 5. **Submit your Pull Request (PR)**: After making the changes, submit a PR with an appropriate title and description.
 

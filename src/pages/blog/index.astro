@@ -15,10 +15,43 @@ const posts = (await getCollection("blog")).sort(
 <html lang="en">
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-
+  </head>
+  <body>
+    <HeaderMain />
+    <main>
+      <section class="posts">
+        <ul>
+          {
+            posts.map((post) => (
+              <li>
+                <a href={`/blog/${post.slug}/`}>
+                  <img
+                    width={720}
+                    height={360}
+                    src={post.data.heroImage}
+                    alt=""
+                  />
+                  <h4 class="title">{post.data.title}</h4>
+                  <p class="date">
+                    <FormattedDate date={post.data.pubDate} />
+                  </p>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    </main>
+    <Footer />
     <style>
       main {
-        width: 960px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+      }
+      .posts {
+        display: flex;
+        justify-content: center;
       }
       ul {
         display: flex;
@@ -27,6 +60,8 @@ const posts = (await getCollection("blog")).sort(
         list-style-type: none;
         margin: 0;
         padding: 0;
+        width: 60%;
+        align-self: center;
       }
       ul li {
         width: calc(50% - 1rem);
@@ -85,33 +120,5 @@ const posts = (await getCollection("blog")).sort(
         }
       }
     </style>
-  </head>
-  <body>
-    <HeaderMain />
-    <main>
-      <section>
-        <ul>
-          {
-            posts.map((post) => (
-              <li>
-                <a href={`/blog/${post.slug}/`}>
-                  <img
-                    width={720}
-                    height={360}
-                    src={post.data.heroImage}
-                    alt=""
-                  />
-                  <h4 class="title">{post.data.title}</h4>
-                  <p class="date">
-                    <FormattedDate date={post.data.pubDate} />
-                  </p>
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </section>
-    </main>
-    <Footer />
   </body>
 </html>
