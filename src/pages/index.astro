@@ -3,13 +3,9 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/HeaderMain.astro";
 import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
-import { getCollection } from "astro:content";
-import FormattedDate from "../components/FormattedDate.astro";
 import HeaderMain from "../components/HeaderMain.astro";
 import Portfolios from "../components/Portfolios.astro";
-const posts = (await getCollection("blog")).sort(
-  (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
-);
+import PostHome from "../components/PostHome.astro";
 ---
 
 <!doctype html>
@@ -21,26 +17,7 @@ const posts = (await getCollection("blog")).sort(
     <HeaderMain title={SITE_TITLE} />
     <main>
       <Portfolios />
-      <ul>
-        {
-          posts.slice(0, 2).map((post) => (
-            <li>
-              <a href={`/blog/${post.slug}/`}>
-                <img
-                  width={720}
-                  height={360}
-                  src={post.data.heroImage}
-                  alt=""
-                />
-                <h4 class="title">{post.data.title}</h4>
-                <p class="date">
-                  <FormattedDate date={post.data.pubDate} />
-                </p>
-              </a>
-            </li>
-          ))
-        }
-      </ul>
+      <PostHome />
     </main>
     <Footer />
   </body>
