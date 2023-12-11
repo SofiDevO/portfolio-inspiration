@@ -26,15 +26,60 @@
 
 
 
-# Instructions
-Before submitting your pull request, please compress your image. You can use whatever tool you want, for example [squoosh](https://squoosh.app/).
+# Portfolio-Inspiration Contribution Guidelines
 
-Fill the columns with the respective info, just like the example below:
+Thank you for your interest in contributing to the "Portfolio Inspiration" project! Here are the instructions on how to contribute. You can choose between two methods: editing the README directly or forking the repository.
 
-```markdown
-| Author | Drag your image (compressed) here  |  Your portfolio URL | [Github](Your repository link) | Stacks used to build it  |
-```
+## Edit the README Directly
 
-![Example](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/4efe7ddd-63b2-465d-b6a5-f2675db5db99)
+If you choose to edit the README directly, follow these steps:
 
+1. **Edit the Table**: Add your own entry to the table with the respective information. Copy and paste the following code into the table, replacing the fields with your project information.
 
+   ```markdown
+   | Your Name | ![Your Screenshot (compressed)](Link to your screenshot) | [Your Portfolio URL](Link to your portfolio) | [GitHub Link to Your Repository](Link to your repository) | Technologies Used |
+   ```
+
+   Ensure that the image is compressed before adding it.
+
+   **Example:**
+
+   ```markdown
+   | SofiDev | ![sofidev-portfolio](Link to your screenshot) | [itssofi.dev](https://itssofi.dev/)   | [GitHub](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, Javascript, CSS, React  |
+   ```
+
+2. **Add a Screenshot**: Add your screenshot to the "assets" directory and make sure to provide the correct link in the table.
+
+3. **Submit your Pull Request (PR)**: After making the changes, submit a PR with an appropriate title and description.
+
+## Fork the Repository
+
+If you prefer to fork the repository, follow these steps:
+
+1. **Fork the Repository**: Fork the [Portfolio Inspiration](Link to your repository) repository to your GitHub account.
+
+2. **Clone Your Fork**: Clone your fork to your local machine.
+
+   ```bash
+   git clone https://github.com/SofiDevO/portfolio-inspiration.git
+   ```
+
+3. **Create a Branch**: Create a new branch to add your entry.
+
+   ```bash
+   git checkout -b feature/adding-my-portfolio
+   ```
+
+4. **Add Your Entry**: Follow the format in the README and add your own entry.
+
+5. **Push Changes**: Push the changes to your fork on GitHub.
+
+   ```bash
+   git add .
+   git commit -m "Adding my portfolio"
+   git push origin feature/adding-my-portfolio
+   ```
+
+6. **Submit a Pull Request (PR)**: From your fork on GitHub, create a PR by selecting the branch you just created.
+
+Thank you for contributing to the "Portfolio Inspiration" project. We look forward to seeing your portfolio in the list!
