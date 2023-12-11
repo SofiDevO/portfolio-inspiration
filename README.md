@@ -23,7 +23,7 @@
 
 ## Portfolio-Inspiration Contribution Guidelines
 
-> Thank you for your interest in contributing to the "Portfolio Inspiration" project! Here are the instructions on how to contribute. You can choose between two methods: editing the README directly or forking the repository.
+> Thank you for your interest in contributing to the "Portfolio Inspiration" project! Here are the instructions on how to contribute. You can choose between two methods: editing the README directly by forking the repository or cloning the repository.
 
 ## Edit the README Directly
 
