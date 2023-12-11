@@ -1,5 +1,5 @@
 
-# portfolio-inspiration
+# Portfolio-inspiration
 
 | Author  | Screenshot           | Live URL                   | Repo                                     | Tech Stack                           |
 |---------|----------------------|--------------------------------|--------------------------------------------|--------------------------------------|
