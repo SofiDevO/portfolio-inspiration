@@ -48,7 +48,10 @@ If you choose to edit the README directly, follow these steps:
    | SofiDev | ![sofidev-portfolio](Link to your screenshot) | [itssofi.dev](https://itssofi.dev/)   | [GitHub](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, Javascript, CSS, React  |
    ```
 
-2. **Add a Screenshot**: Add your screenshot by just drag into the README.md.
+2. **Add a Screenshot**:
+3.  Before submitting your pull request, please compress your image. You can use whatever tool you want, for example [squoosh](https://squoosh.app/).
+4. Add your screenshot by just drag into the README.md.
+
    
 ![ejemplo](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/e22aee88-d824-4c98-8af8-93294a00f868)
 
@@ -57,6 +60,7 @@ If you choose to edit the README directly, follow these steps:
 ## Fork the Repository
 
 If you prefer to fork the repository, follow these steps:
+
 
 1. **Fork the Repository**: Fork the [Portfolio Inspiration](Link to your repository) repository to your GitHub account.
 
