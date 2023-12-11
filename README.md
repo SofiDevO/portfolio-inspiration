@@ -48,7 +48,9 @@ If you choose to edit the README directly, follow these steps:
    | SofiDev | ![sofidev-portfolio](Link to your screenshot) | [itssofi.dev](https://itssofi.dev/)   | [GitHub](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, Javascript, CSS, React  |
    ```
 
-2. **Add a Screenshot**: Add your screenshot to the "assets" directory and make sure to provide the correct link in the table.
+2. **Add a Screenshot**: Add your screenshot by just drag into the README.md.
+   
+![ejemplo](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/e22aee88-d824-4c98-8af8-93294a00f868)
 
 3. **Submit your Pull Request (PR)**: After making the changes, submit a PR with an appropriate title and description.
 
