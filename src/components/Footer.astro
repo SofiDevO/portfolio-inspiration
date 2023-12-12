@@ -3,7 +3,9 @@ const today = new Date();
 ---
 
 <footer>
-  &copy; {today.getFullYear()} SofiDev.
+  <div class="container">
+    &copy; {today.getFullYear()} SofiDev.
+  </div>
   <div class="social-links">
     <a
       href="https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw"
@@ -49,26 +51,43 @@ const today = new Date();
     >
     </a>
   </div>
-  <style>
-    footer {
-      padding: 1em 1em 1em 1em;
-      background: black;
-      color: rgb(var(--gray));
-      text-align: center;
-    }
-    .social-links {
-      display: flex;
-      justify-content: center;
-      gap: 1em;
-      margin-top: 1em;
-      align-items: center;
-    }
-    .social-links a {
-      text-decoration: none;
-      color:;
-    }
-    .social-links a:hover {
-      color: var(--text-highligth);
-    }
-  </style>
 </footer>
+
+<style>
+  footer {
+    padding: 1em 1em 1em 1em;
+    background: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .container {
+    width: 100%;
+  }
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    margin-top: 1em;
+    align-items: center;
+  }
+  .social-links a {
+    text-decoration: none;
+    color:;
+  }
+  .social-links a:hover {
+    color: var(--text-highligth);
+  }
+
+  @media screen and (min-width: 768px) {
+    footer {
+      justify-content: space-between;
+    }
+    .container {
+      width: 20%;
+    }
+  }
+</style>

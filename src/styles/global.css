@@ -100,7 +100,9 @@ table {
   border-spacing: 32px;
   overflow: auto;
 }
-
+ul {
+  padding: 15px;
+}
 th {
   width: 27%;
   display: table-cell;
