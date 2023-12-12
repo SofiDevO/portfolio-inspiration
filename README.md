@@ -11,6 +11,8 @@
 
 > Thank you for your interest in contributing to the "Portfolio Inspiration" project! Here are the instructions on how to contribute. You can choose between two methods: editing the README directly by forking the repository or cloning the repository.
 
+You can add your portfolio [HERE](https://github.com/SofiDevO/portfolio-inspiration)
+
 ## Edit the README Directly
 
 If you choose to edit the README directly, follow these steps:
