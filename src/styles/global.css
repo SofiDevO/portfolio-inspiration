@@ -45,9 +45,19 @@ h1 {
 }
 h2 {
   font-size: 3rem;
+  margin: 30px 0;
+  background: rgb(165, 0, 170);
+  background: linear-gradient(
+    90deg,
+    rgba(165, 0, 170, 0.9612219887955182) 22%,
+    rgba(0, 252, 199, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 h3 {
-  font-size: 1.9rem;
+  font-size: 2rem;
 }
 h4 {
   font-size: 1.7rem;
@@ -87,7 +97,7 @@ table {
   padding: 1rem 0.7rem;
   border-radius: 9px;
   display: block;
-  border-spacing: 12px;
+  border-spacing: 32px;
   overflow: auto;
 }
 
@@ -100,8 +110,9 @@ td {
 }
 
 td > img {
-  width: 70%;
+  width: 100%;
 }
+
 img {
   max-width: 100%;
   height: auto;
@@ -123,7 +134,8 @@ blockquote {
   border-left: 4px solid var(--accent);
   padding: 0 0 0 20px;
   margin: 0px;
-  font-size: 1.333em;
+  font-size: 1.8rem;
+  margin-bottom: 4rem;
 }
 hr {
   border: none;
@@ -132,6 +144,7 @@ hr {
 li {
   list-style: none;
 }
+
 @media (min-width: 768px) {
   body {
     font-size: 18px;
@@ -143,6 +156,21 @@ li {
     border-radius: 13px;
     display: table-cell;
     border-spacing: 3px;
+  }
+  td > img {
+    width: 70%;
+  }
+  body::-webkit-scrollbar {
+    width: 15px;
+    background: #737171;
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: #23c1ff;
+    border-radius: 2px;
+  }
+
+  body::-webkit-scrollbar-thumb:hover {
+    background-color: #460372;
   }
 }
 .sr-only {
