@@ -32,8 +32,8 @@ If you choose to edit the README directly, follow these steps:
    ```
 
  **Add a Screenshot**:
- Before submitting your pull request, please compress your image. You can use whatever tool you want, for example [squoosh](https://squoosh.app/).
- Add your screenshot by just drag into the README.md.
+ >[!IMPORTANT]
+> Before submitting your pull request, please compress your image. You can use whatever tool you want, for example [squoosh](https://squoosh.app/). Add your screenshot by just drag into the README.md.
 
 ![ejemplo](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/e22aee88-d824-4c98-8af8-93294a00f868)
 
