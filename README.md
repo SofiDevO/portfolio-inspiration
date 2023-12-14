@@ -3,9 +3,13 @@
 | Author  | Screenshot                                                                                                                    | Live URL                                                                 | Repo                                                          | Tech Stack                    |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------- |
 | SofiDev | ![sofidev-portfolio](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/2051a823-69dc-4067-b315-ced94d240a87) | [itssofi.dev](https://itssofi.dev/)                                      | [Github](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, Javascript, CSS, React |
-| SofiDev | ![portfolio red](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/4d437b01-baa2-41b9-9e03-c6b7aaf78344)     | [mi-primer-portafolio](https://sofidevo.github.io/mi-primer-portafolio/) | [Github](https://github.com/SofiDevO/mi-primer-portafolio)    | HTML , CSS                    |
-|         |                                                                                                                               |                                                                          |                                                               |                               |
-|         |
+| SofiDev | ![portfolio red](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/4d437b01-baa2-41b9-9e03-c6b7aaf78344)     | [mi-primer-portafolio](https://sofidevo.github.io/mi-primer-portafolio/) | [Github](https://github.com/SofiDevO/mi-primer-portafolio)    | HTML , CSS   |
+| SofiDev|![Captura de pantalla 2023-12-13 182050](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/d4dac231-9754-404e-b499-ffb562404c8e) |   [portafolio-claro](https://sofidevo.github.io/portafolio-claro/) |[GiHub](https://github.com/SofiDevO/portafolio-claro) | HTML, CSS|
+| | | | | |
+
+
+
+
 
 ## Portfolio-Inspiration Contribution Guidelines
 
