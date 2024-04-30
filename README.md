@@ -6,7 +6,6 @@
 | SofiDev | ![portfolio red](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/4d437b01-baa2-41b9-9e03-c6b7aaf78344)                         | [mi-primer-portafolio](https://sofidevo.github.io/mi-primer-portafolio/) | [Github](https://github.com/SofiDevO/mi-primer-portafolio)     | HTML , CSS                    |
 | SofiDev | ![Captura de pantalla 2023-12-13 182050](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/d4dac231-9754-404e-b499-ffb562404c8e) | [portafolio-claro](https://sofidevo.github.io/portafolio-claro/)         | [GiHub](https://github.com/SofiDevO/portafolio-claro)          | HTML, CSS                     |
 | SofiDev01 | ![astro_portfolio](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/7ac0fa64-41ee-45ca-93db-b664de510876)                       | [Astro-portfolio](https://portfoli-sofidev-astro.vercel.app/)            | [GitHub](https://github.com/SofiDevO/template-astro-portfolio) | Astro, tailwind, react        |
-| Chuchita  |       ![Untitled-1](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/97976bc4-acd3-455c-830c-55be05ba82ed)| [Astro-portfolio](https://playh.googleusercontent.com/6eRpIKSEHPNny49xvp28qdODpI2F3rH7vvUjk7xoqHm54JHEwITQtv3rwuLkk838GkZPYjyUOONb8cEM5bM=w240-h480-rw) | [GitHub](https://github.com/SofiDevO/template-astro-portfolio) | Astro, tailwind, react        |
 
 ## Portfolio-Inspiration Contribution Guidelines
 
