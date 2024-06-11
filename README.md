@@ -3,8 +3,10 @@
 | Author  | Screenshot                                                                                                                                        | Live URL                                                                 | Repo                                                           | Tech Stack                    |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- | ----------------------------- |
 | SofiDev | ![sofidev-portfolio](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/2051a823-69dc-4067-b315-ced94d240a87)                     | [itssofi.dev](https://itssofi.dev/)                                      | [Github](https://github.com/SofiDevO/sofidev-portfolio-astro)  | Astro, Javascript, CSS, React |
-| Pepito | ![astro_portfolio](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/7ac0fa64-41ee-45ca-93db-b664de510876)                       | [Astro-portfolio](https://portfoli-sofidev-astro.vercel.app/)            | [GitHub](https://github.com/SofiDevO/template-astro-portfolio) | Astro, tailwind, react        |
 | Sofi/GGarrux |![Screenshot 2024-05-11 220454](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/9b140159-e4e8-4598-b900-bc466ef5f377) | [Astro-portfolio](https://primer-blog-umber.vercel.app/)| [GitHub](https://github.com/SofiDevO/primer-blog) | Astro, CSS, tailwind,         |
+
+
+
 
 ## Portfolio-Inspiration Contribution Guidelines
 
