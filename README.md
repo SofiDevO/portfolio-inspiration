@@ -4,6 +4,7 @@
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- | ----------------------------- |
 | SofiDev | ![sofidev-portfolio](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/2051a823-69dc-4067-b315-ced94d240a87)                     | [itssofi.dev](https://itssofi.dev/)                                      | [Github](https://github.com/SofiDevO/sofidev-portfolio-astro)  | Astro, Javascript, CSS, React |
 | Sofi/GGarrux |![Screenshot 2024-05-11 220454](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/9b140159-e4e8-4598-b900-bc466ef5f377) | [Astro-portfolio](https://primer-blog-umber.vercel.app/)| [GitHub](https://github.com/SofiDevO/primer-blog) | Astro, CSS, tailwind,         |
+| SofiDev| ![portada (1)](https://github.com/user-attachments/assets/0df828d5-e546-4168-a2bb-3eb9b0c10242) | [link tree kind]([https://astro.build/themes/details/shareyourlinks/](https://allmylinks-ten.vercel.app/))| [GitHub](https://github.com/SofiDevO/allmylinks) | Astro, CSS    |
 
 
 
