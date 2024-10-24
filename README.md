@@ -6,7 +6,7 @@
 | Sofi/GGarrux |![Screenshot 2024-05-11 220454](https://github.com/SofiDevO/portfolio-inspiration/assets/102200061/9b140159-e4e8-4598-b900-bc466ef5f377) | [Astro-portfolio](https://primer-blog-umber.vercel.app/)| [GitHub](https://github.com/SofiDevO/primer-blog) | Astro, CSS, tailwind,         |
 | SofiDev| ![portadaAllMyLinks](https://github.com/user-attachments/assets/d185cc7f-5dba-47da-8217-a7559504da67) | [SofiLinks](https://allmylinks-ten.vercel.app/)| [GitHub](https://github.com/SofiDevO/allmylinks) | Astro, CSS    |
 | cristiansandoval22| ![Screenshot 2024-10-23 220628](https://github.com/user-attachments/assets/1310611b-3864-482e-a994-fbf2ab346d3d) | [Portfolio Cristian](https://cristiansandoval22.github.io/crissandoval.com/)| [GitHub](https://github.com/cristiansandoval22/crissandoval.com) | html, css y javascript  |
-
+| Stron | ![Screenshot 2024-10-23 221123](https://github.com/user-attachments/assets/06f604c2-e309-437a-a861-430bf0f6d7cb) | [Portfolio](https://portfolio-190.pages.dev/) | [GitHub](https://github.com/ElStron/portfolio) | Astro, Javascript, Css |
 
 
 
