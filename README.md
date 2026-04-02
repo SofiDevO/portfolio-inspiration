@@ -9,6 +9,7 @@
 | Stron | ![Screenshot 2024-10-23 221123](https://github.com/user-attachments/assets/06f604c2-e309-437a-a861-430bf0f6d7cb) | [Portfolio](https://portfolio-190.pages.dev/) | [GitHub](https://github.com/ElStron/portfolio) | Astro, Javascript, Css |
 | Ghulam | ![ss](https://github.com/user-attachments/assets/7531f709-b47f-423d-968e-8c9216930088) | [Portfolio](https://gahmed.com) | [GitHub](https://github.com/TheGhulam) | Astro, React |
 | Ricardo Vega G | ![imagen](https://github.com/user-attachments/assets/5535fdeb-e285-4e23-ad4b-2945ebf84ac8) | [Portfolio](https://rickytodev.xyz) | [GitHub](https://github.com/rickytodev) | Astro, Typescript, Tailwindcss | 
+| Diyor Khakimov | ![portfolio-template](https://raw.githubusercontent.com/diyoriko/portfolio-template/main/screenshot.png) | [diyor.design](https://diyor.design) | [GitHub](https://github.com/diyoriko/portfolio-template) | HTML, CSS, Javascript |
 
 
 
