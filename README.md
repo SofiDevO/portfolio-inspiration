@@ -10,6 +10,7 @@
 | Ghulam | ![ss](https://github.com/user-attachments/assets/7531f709-b47f-423d-968e-8c9216930088) | [Portfolio](https://gahmed.com) | [GitHub](https://github.com/TheGhulam) | Astro, React |
 | Ricardo Vega G | ![imagen](https://github.com/user-attachments/assets/5535fdeb-e285-4e23-ad4b-2945ebf84ac8) | [Portfolio](https://rickytodev.xyz) | [GitHub](https://github.com/rickytodev) | Astro, Typescript, Tailwindcss | 
 | Parish Khan | ![parish-cv](https://raw.githubusercontent.com/ParishKhan/portfolio-inspiration/add-parish-khan/assets/parish-cv.png) | [parish.cv](https://parish.cv) | None | React, TypeScript, Tailwind CSS, Vite |
+| Sulayman Bowles | ![Sulayman Bowles portfolio](https://raw.githubusercontent.com/SulaymanB2024/portfolio-inspiration/add-sulayman-bowles-portfolio/assets/sulayman-bowles-portfolio.jpg) | [sulayman-bowles.dev](https://sulayman-bowles.dev/) | [GitHub](https://github.com/SulaymanB2024/Portfolio_Site) | React, TypeScript, Vite, Three.js |
 
 
 
