@@ -9,9 +9,9 @@
 | Stron | ![Screenshot 2024-10-23 221123](https://github.com/user-attachments/assets/06f604c2-e309-437a-a861-430bf0f6d7cb) | [Portfolio](https://portfolio-190.pages.dev/) | [GitHub](https://github.com/ElStron/portfolio) | Astro, Javascript, Css |
 | Ghulam | ![ss](https://github.com/user-attachments/assets/7531f709-b47f-423d-968e-8c9216930088) | [Portfolio](https://gahmed.com) | [GitHub](https://github.com/TheGhulam) | Astro, React |
 | Ricardo Vega G | ![imagen](https://github.com/user-attachments/assets/5535fdeb-e285-4e23-ad4b-2945ebf84ac8) | [Portfolio](https://rickytodev.xyz) | [GitHub](https://github.com/rickytodev) | Astro, Typescript, Tailwindcss | 
-| Parish Khan | ![parish-cv](https://raw.githubusercontent.com/ParishKhan/portfolio-inspiration/add-parish-khan/assets/parish-cv.png) | [parish.cv](https://parish.cv) | None | React, TypeScript, Tailwind CSS, Vite |
+| Parish Khan | ![parish-cv](https://github.com/user-attachments/assets/f0444b3d-0226-4bbf-81de-7b83a17ddd7e) | [parish.cv](https://parish.cv) | None | React, TypeScript, Tailwind CSS, Vite |
 | Aathif Zahir | ![aathifzahir-portfolio](https://aathifzahir.vercel.app/assets/og-image.jpg) | [aathifzahir.vercel.app](https://aathifzahir.vercel.app/) | None | React, Motion, Web3Forms                                |
-| Joey Zhao | https://joeyzhao.cc/video/hero-poster.jpg | [joeyzhao.cc](https://www.joeyzhao.cc) | [GitHub](https://github.com/joeymilano/portfolio.github.io) | HTML, CSS, JavaScript |
+| Joey Zhao | ![banner](https://github.com/user-attachments/assets/3b484176-4720-40f0-b232-9d4b8a26ce3f) | [joeyzhao.cc](https://www.joeyzhao.cc) | [GitHub](https://github.com/joeymilano/portfolio.github.io) | HTML, CSS, JavaScript |
 | Yorben Vander Sleyen | ![yorben.me](https://yorben.me/assets/work/rime/cover.webp) | [yorben.me](https://yorben.me) | [GitHub](https://github.com/Yvsleyen00941/Yvsleyen00941.github.io) | HTML, CSS, JavaScript, Swift Showcases |
 
 
