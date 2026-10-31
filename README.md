@@ -11,6 +11,8 @@
 | Ricardo Vega G | ![imagen](https://github.com/user-attachments/assets/5535fdeb-e285-4e23-ad4b-2945ebf84ac8) | [Portfolio](https://rickytodev.xyz) | [GitHub](https://github.com/rickytodev) | Astro, Typescript, Tailwindcss | 
 | Parish Khan | ![parish-cv](https://raw.githubusercontent.com/ParishKhan/portfolio-inspiration/add-parish-khan/assets/parish-cv.png) | [parish.cv](https://parish.cv) | None | React, TypeScript, Tailwind CSS, Vite |
 | Aathif Zahir | ![aathifzahir-portfolio](https://aathifzahir.vercel.app/assets/og-image.jpg) | [aathifzahir.vercel.app](https://aathifzahir.vercel.app/) | None | React, Motion, Web3Forms                                |
+| Joey Zhao | https://joeyzhao.cc/video/hero-poster.jpg | [joeyzhao.cc](https://www.joeyzhao.cc) | [GitHub](https://github.com/joeymilano/portfolio.github.io) | HTML, CSS, JavaScript |
+| Yorben Vander Sleyen | ![yorben.me](https://yorben.me/assets/work/rime/cover.webp) | [yorben.me](https://yorben.me) | [GitHub](https://github.com/Yvsleyen00941/Yvsleyen00941.github.io) | HTML, CSS, JavaScript, Swift Showcases |
 
 
 
