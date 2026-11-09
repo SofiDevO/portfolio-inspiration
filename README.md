@@ -24,6 +24,7 @@
 You can add your portfolio [HERE](https://github.com/SofiDevO/portfolio-inspiration)
 
 ## Edit the README Directly
+- [Yorben Vandersleyen](https://yorben.me/#needle) - Interactive portfolio presenting native macOS apps Needle and Tape.
 
 If you choose to edit the README directly, follow these steps:
 
