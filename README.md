@@ -13,6 +13,7 @@
 | Aathif Zahir | ![aathifzahir-portfolio](https://aathifzahir.vercel.app/assets/og-image.jpg) | [aathifzahir.vercel.app](https://aathifzahir.vercel.app/) | None | React, Motion, Web3Forms                                |
 | Joey Zhao | ![banner](https://github.com/user-attachments/assets/3b484176-4720-40f0-b232-9d4b8a26ce3f) | [joeyzhao.cc](https://www.joeyzhao.cc) | [GitHub](https://github.com/joeymilano/portfolio.github.io) | HTML, CSS, JavaScript |
 | Yorben Vander Sleyen | ![yorben.me](https://yorben.me/assets/work/rime/cover.webp) | [yorben.me](https://yorben.me) | [GitHub](https://github.com/Yvsleyen00941/Yvsleyen00941.github.io) | HTML, CSS, JavaScript, Swift Showcases |
+| Korey Wang Tianru | ![korey2028-portfolio](https://korey2028.tech/assets/fitness-os-today.png) | [korey2028.tech](https://korey2028.tech) | [GitHub](https://github.com/korey2028-prog/portfolio) | HTML, CSS, JavaScript |
 
 
 
